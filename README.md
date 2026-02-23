@@ -19,7 +19,7 @@ Most people use Claude Code without knowing what's actually happening: which mod
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourusername/phoenix-claude-code.git
+git clone https://github.com/rachittshah/phoenix-claude-code.git
 cd phoenix-claude-code
 cp .env.example .env
 # Edit .env: add your ANTHROPIC_API_KEY
