@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+node_modules/
+
+# Secrets
+.env
+
+# Data (never commit personal trace data)
+*.csv
+*.jsonl
+golden_dataset*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+phoenix_data/
